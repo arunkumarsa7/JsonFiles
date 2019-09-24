@@ -15,6 +15,43 @@
     {
       "id": 4,
       "name": "Other"
+      "subProject": [
+    {
+      "id": 1001,
+      "name": "Kraft",
+      "breachedSLA": 0,
+      "atRiskSLA": 10,
+      "activeSLA": 200,
+      "manager": "abcd pqrs",
+      "domain": "Motor"
+    },
+    {
+      "id": 1002,
+      "name": "Leben",
+      "breachedSLA": 10,
+      "atRiskSLA": 25,
+      "activeSLA": 150,
+      "manager": "abcd pqrs",
+      "domain": "Life"
+    },
+    {
+      "id": 1003,
+      "name": "CFS",
+      "breachedSLA": 10,
+      "atRiskSLA": 30,
+      "activeSLA": 100,
+      "manager": "abcd pqrs",
+      "domain": "All"
+    },
+    {
+      "id": 1004,
+      "name": "PMS",
+      "breachedSLA": 3,
+      "atRiskSLA": 20,
+      "activeSLA": 50,
+      "manager": "abcd pqrs",
+      "domain": "All"
+    }]
     }
   ]
 }
